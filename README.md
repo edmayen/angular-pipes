@@ -1,4 +1,14 @@
-# Pipes
+# Angular Pipes 
+__Use of Angular Pipes__<br/>
+*Uppercase<br/>
+*Lowercase<br/>
+*Slice<br/>
+*Number<br/>
+*Percent<br/>
+*Currency<br/>
+*Date<br/>
+*Async<br/>
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
